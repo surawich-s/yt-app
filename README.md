@@ -1,8 +1,6 @@
 # React + Youtube API
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first React Project in Udemy course
 
 ## Demo
 
